@@ -18,5 +18,5 @@ void bubbleSort(int *input, int size)
                 input[j+1] = temp;
             }
         }
-    }
+    }.
 }
