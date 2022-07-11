@@ -5,7 +5,6 @@
 void sumOfTwoArrays(int *input1, int size1, int *input2, int size2, int *output)
 {
     int k = max(size1, size2);
-
     int i = size1 - 1;
     int j = size2 - 1; 
     int carry = 0;
